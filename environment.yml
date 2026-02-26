@@ -1,0 +1,5 @@
+name: snake-rl
+channels:
+  - defaults
+dependencies:
+  - python=3.11
