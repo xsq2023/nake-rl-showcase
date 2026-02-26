@@ -77,3 +77,12 @@ conda run -n snake-rl python play.py --model checkpoints/q_table.json --policy h
   - 利用 Q 值偏好
   - 同时做安全空间评估与路径可达性判断
   - 显著降低“贴边自杀/困死”概率
+
+## 7) GitHub 协作 Demo
+
+这份仓库演示了一个最小协作流程：
+
+1. 从 `main` 拉出功能分支，例如 `demo/github-flow`
+2. 在分支开发并提交改动
+3. 推送分支到 GitHub，发起 PR（或本地合并）
+4. 合并回 `main` 并推送
