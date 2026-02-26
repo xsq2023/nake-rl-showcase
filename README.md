@@ -1,6 +1,6 @@
 # Snake RL Showcase (Miniconda)
 
-目标：做一个可训练、可展示、AI 玩得很强的贪吃蛇成品版本。
+目标：做一个可训练、可展示、AI 玩得很强、可直接发布到 GitHub 的贪吃蛇成品版本。
 
 ## 1) 创建 conda 环境
 
